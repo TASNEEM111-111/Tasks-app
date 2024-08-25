@@ -1,4 +1,4 @@
-cat <<EOF > README.md
+
 # Tasks App
 
 **Tasks App** is a Flutter application that allows users to manage their tasks efficiently. With this app, users can:
@@ -82,5 +82,4 @@ For any questions or feedback, feel free to reach out:
 - **Email**: tasneemselim369@gmail.com
 - **GitHub**: (https://github.com/TASNEEM111-111/)
 
-EOF
 
