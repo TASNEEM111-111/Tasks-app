@@ -16,9 +16,7 @@ The app uses the BLoC (Business Logic Component) pattern with the \`flutter_bloc
 - **Delete Tasks**: Users can remove tasks from their list permanently.
 - **State Management**: Utilizes BLoC pattern for state management with the \`flutter_bloc\` package.
 
-## Screenshots
 
-![Tasks App Screenshot](assets/screenshots/main_screen.png)
 
 ## Getting Started
 
@@ -33,27 +31,27 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository**:
 
-   \`\`\`bash
+     ```bash
    git clonehttps://github.com/TASNEEM111-111/Taska-app.git
-   \`\`\`
+   
 
 2. **Navigate to the Project Directory**:
 
-   \`\`\`bash
+    ```bash
    cd Tasks-app
-   \`\`\`
+   
 
 3. **Install Dependencies**:
 
-   \`\`\`bash
+    ```bash
    flutter pub get
-   \`\`\`
+   
 
 4. **Run the Application**:
 
-   \`\`\`bash
+     ```bash
    flutter run
-   \`\`\`
+   
 
 ## Usage
 
@@ -70,13 +68,6 @@ To get started with this project, follow these steps:
    - Swipe right on a task or tap the "Delete" button next to it.
    - The task will be removed from the list permanently.
 
-## Contributing
-
-Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
